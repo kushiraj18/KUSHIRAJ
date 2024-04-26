@@ -24,3 +24,6 @@
 
 #AIML-2024
 [LAB-09](https://github.com/kushiraj18/KUSHIRAJ.git)
+
+#AIML-2024
+[LAB-10](https://github.com/kushiraj18/KUSHIRAJ.git)
